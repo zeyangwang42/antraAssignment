@@ -1,0 +1,15 @@
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\bin\Debug\net6.0\antraAssignment.exe
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\bin\Debug\net6.0\antraAssignment.deps.json
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\bin\Debug\net6.0\antraAssignment.runtimeconfig.json
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\bin\Debug\net6.0\antraAssignment.dll
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\bin\Debug\net6.0\ref\antraAssignment.dll
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\bin\Debug\net6.0\antraAssignment.pdb
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.csproj.AssemblyReference.cache
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.AssemblyInfoInputs.cache
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.AssemblyInfo.cs
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.dll
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\ref\antraAssignment.dll
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.pdb
+C:\Users\wangzeyang\source\repos\antraAssignment1\antraAssignment\obj\Debug\net6.0\antraAssignment.genruntimeconfig.cache
