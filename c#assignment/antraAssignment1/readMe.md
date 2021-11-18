@@ -1,1 +1,1 @@
-new CAssignment class is in the Program.cs
+The CAssignment class is in the Program.cs
