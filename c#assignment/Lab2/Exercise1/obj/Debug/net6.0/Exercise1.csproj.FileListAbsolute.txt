@@ -1,0 +1,15 @@
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\bin\Debug\net6.0\Exercise1.exe
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\bin\Debug\net6.0\Exercise1.dll
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\bin\Debug\net6.0\ref\Exercise1.dll
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.dll
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+C:\Users\wangzeyang\source\repos\Lab2\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
